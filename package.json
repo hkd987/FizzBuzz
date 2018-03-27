@@ -1,0 +1,25 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Just a stupid fizzbuzz example bc everyone wants to see how you solve it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkd987/fizzbuzz.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "fizzbuzz"
+  ],
+  "author": "Lundin Matthews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hkd987/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/hkd987/fizzbuzz#readme"
+}
